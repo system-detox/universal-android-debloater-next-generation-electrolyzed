@@ -87,6 +87,7 @@ _recovery/
 
 # Lazarus folders
 backup/
+bin/
 
 # Binary data
 #*.zip
