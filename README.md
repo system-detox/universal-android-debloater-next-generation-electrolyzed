@@ -5,7 +5,7 @@ could happen to your phone.
 
 
 ## Electrolysed edition
-This is the electrolyzed edition of UAD. In essence the tool has been rewritten in **Modern Object Pascal** to make it easier for contributions and most of all, design and maintain a nice 
+This is the electrolyzed edition of UAD. In essence the tool has been rewritten in **Modern Object Pascal** to make it easier for contributions and most of all, design and maintain a nice UI.
 We don't need Rust.
 
 ## Getting started with development
