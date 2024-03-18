@@ -1,0 +1,8 @@
+object frmMainForm: TfrmMainForm
+  Left = 349
+  Height = 240
+  Top = 30
+  Width = 320
+  Caption = 'frmMainForm'
+  Position = poScreenCenter
+end

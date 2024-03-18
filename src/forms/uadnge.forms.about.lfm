@@ -1,0 +1,9 @@
+object frmAboutDialog: TfrmAboutDialog
+  Left = 349
+  Height = 240
+  Top = 30
+  Width = 320
+  Caption = 'frmAboutDialog'
+  Position = poMainFormCenter
+  LCLVersion = '3.2.0.0'
+end
