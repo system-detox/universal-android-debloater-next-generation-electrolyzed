@@ -6,7 +6,8 @@ could happen to your phone.
 
 ## Electrolysed edition
 This is the electrolyzed edition of UAD. In essence the tool has been rewritten in **Modern Object Pascal** to make it easier for contributions and most of all, design and maintain a nice UI.
-We don't need Rust.
+
+There's no better way to remove Rust with electrolysis.
 
 ## Getting started with development
 - Either download the latest release of the Lazarus IDE which also contains the Free Pascal compiler from the [official website](https://www.lazarus-ide.org/index.php?page=downloads) or use your favorite package manager under Linux or macOS.
